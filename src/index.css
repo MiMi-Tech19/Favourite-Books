@@ -1,0 +1,58 @@
+body {
+  color: rgb(36, 121, 205);
+  text-align: center;
+  background-color: black;
+}
+.App {
+  font-family: "Times New Roman", Times, serif;
+}
+.Header {
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(36, 121, 205);
+}
+.Title1 {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(36, 121, 205);
+  cursor: pointer;
+  border: 5px solid rgb(36, 121, 205);
+  border-radius: 50px;
+}
+.Title2 {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(36, 121, 205);
+  cursor: pointer;
+  border: 5px solid rgb(36, 121, 205);
+  border-radius: 50px;
+}
+.Title3 {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(36, 121, 205);
+  cursor: pointer;
+  border: 5px solid rgb(36, 121, 205);
+  border-radius: 50px;
+}
+.contact-card {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(36, 121, 205);
+  margin-top: 10%;
+}
+
+/*hover effects*/
+.Title1:hover {
+  background-color: rgb(36, 121, 205);
+  color: black;
+}
+.Title2:hover {
+  background-color: rgb(36, 121, 205);
+  color: black;
+}
+
+.Title3:hover {
+  background-color: rgb(36, 121, 205);
+  color: black;
+}
